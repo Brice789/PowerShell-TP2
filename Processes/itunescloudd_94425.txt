@@ -1,0 +1,72 @@
+
+Name                       : itunescloudd
+Id                         : 94425
+PriorityClass              : Normal
+FileVersion                : 
+HandleCount                : 0
+WorkingSet                 : 10756096
+PagedMemorySize            : 0
+PrivateMemorySize          : 0
+VirtualMemorySize          : 234528768
+TotalProcessorTime         : 00:00:01.5628645
+SI                         : 1
+Handles                    : 0
+VM                         : 34594267136
+WS                         : 10756096
+PM                         : 0
+NPM                        : 0
+Path                       : /System/Library/PrivateFrameworks/iTunesCloud.framework/Support/itunescloudd
+CommandLine                : 
+Parent                     : 
+Company                    : 
+CPU                        : 1,5628645
+ProductVersion             : 
+Description                : 
+Product                    : 
+__NounName                 : Process
+SafeHandle                 : Microsoft.Win32.SafeHandles.SafeProcessHandle
+Handle                     : 2216
+BasePriority               : 0
+ExitCode                   : 
+HasExited                  : False
+StartTime                  : 30/11/2023 03:43:53
+ExitTime                   : 
+MachineName                : .
+MaxWorkingSet              : 
+MinWorkingSet              : 
+Modules                    : {System.Diagnostics.ProcessModule (itunescloudd)}
+NonpagedSystemMemorySize64 : 0
+NonpagedSystemMemorySize   : 0
+PagedMemorySize64          : 0
+PagedSystemMemorySize64    : 0
+PagedSystemMemorySize      : 0
+PeakPagedMemorySize64      : 0
+PeakPagedMemorySize        : 0
+PeakWorkingSet64           : 0
+PeakWorkingSet             : 0
+PeakVirtualMemorySize64    : 0
+PeakVirtualMemorySize      : 0
+PriorityBoostEnabled       : False
+PrivateMemorySize64        : 0
+ProcessorAffinity          : 
+SessionId                  : 1
+StartInfo                  : 
+Threads                    : {1275206688, 152051936}
+VirtualMemorySize64        : 34594267136
+EnableRaisingEvents        : False
+StandardInput              : 
+StandardOutput             : 
+StandardError              : 
+WorkingSet64               : 10756096
+SynchronizingObject        : 
+MainModule                 : System.Diagnostics.ProcessModule (itunescloudd)
+MainWindowHandle           : 0
+MainWindowTitle            : 
+Responding                 : True
+ProcessName                : itunescloudd
+PrivilegedProcessorTime    : 00:00:01.1474858
+UserProcessorTime          : 00:00:00.4153787
+Site                       : 
+Container                  : 
+
+

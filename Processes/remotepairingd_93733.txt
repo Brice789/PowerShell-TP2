@@ -1,0 +1,72 @@
+
+Name                       : remotepairingd
+Id                         : 93733
+PriorityClass              : Normal
+FileVersion                : 
+HandleCount                : 0
+WorkingSet                 : 3543040
+PagedMemorySize            : 0
+PrivateMemorySize          : 0
+VirtualMemorySize          : 688951296
+TotalProcessorTime         : 00:00:02.8187551
+SI                         : 1
+Handles                    : 0
+VM                         : 35048689664
+WS                         : 3543040
+PM                         : 0
+NPM                        : 0
+Path                       : /Library/Apple/System/Library/PrivateFrameworks/RemotePairing.framework/Versions/A/XPCServices/remotepairingd.xpc/Contents/MacOS/remotepairingd
+CommandLine                : 
+Parent                     : 
+Company                    : 
+CPU                        : 2,8187551
+ProductVersion             : 
+Description                : 
+Product                    : 
+__NounName                 : Process
+SafeHandle                 : Microsoft.Win32.SafeHandles.SafeProcessHandle
+Handle                     : 2172
+BasePriority               : 0
+ExitCode                   : 
+HasExited                  : False
+StartTime                  : 29/11/2023 15:01:43
+ExitTime                   : 
+MachineName                : .
+MaxWorkingSet              : 
+MinWorkingSet              : 
+Modules                    : {System.Diagnostics.ProcessModule (remotepairingd)}
+NonpagedSystemMemorySize64 : 0
+NonpagedSystemMemorySize   : 0
+PagedMemorySize64          : 0
+PagedSystemMemorySize64    : 0
+PagedSystemMemorySize      : 0
+PeakPagedMemorySize64      : 0
+PeakPagedMemorySize        : 0
+PeakWorkingSet64           : 0
+PeakWorkingSet             : 0
+PeakVirtualMemorySize64    : 0
+PeakVirtualMemorySize      : 0
+PriorityBoostEnabled       : False
+PrivateMemorySize64        : 0
+ProcessorAffinity          : 
+SessionId                  : 1
+StartInfo                  : 
+Threads                    : {1275206688, 251568352, 249958624}
+VirtualMemorySize64        : 35048689664
+EnableRaisingEvents        : False
+StandardInput              : 
+StandardOutput             : 
+StandardError              : 
+WorkingSet64               : 3543040
+SynchronizingObject        : 
+MainModule                 : System.Diagnostics.ProcessModule (remotepairingd)
+MainWindowHandle           : 0
+MainWindowTitle            : 
+Responding                 : True
+ProcessName                : remotepairingd
+PrivilegedProcessorTime    : 00:00:01.0050103
+UserProcessorTime          : 00:00:01.8137448
+Site                       : 
+Container                  : 
+
+

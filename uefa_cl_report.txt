@@ -1,0 +1,32 @@
+Count of winners by country
+- England, 10 Victories
+- France, 1 Victories
+- Germany, 5 Victories
+- Italy, 8 Victories
+- Netherlands, 2 Victories
+- Portugal, 2 Victories
+- Romania, 1 Victories
+- Spain, 13 Victories
+- Yugoslavia, 1 Victories
+
+List winning teams
+- Ajax, 1 wins
+- Aston Villa, 1 wins
+- Barcelona, 5 wins
+- Bayern Munich, 3 wins
+- Borussia Dortmund, 1 wins
+- Chelsea, 2 wins
+- Hamburger SV, 1 wins
+- Inter Milan, 1 wins
+- Juventus, 2 wins
+- Liverpool, 4 wins
+- Manchester City, 1 wins
+- Manchester United, 2 wins
+- Milan, 5 wins
+- Olympique de Marseille, 1 wins
+- Porto, 2 wins
+- PSV Eindhoven, 1 wins
+- Real Madrid, 8 wins
+- Red Star Belgrade, 1 wins
+- Steaua București, 1 wins
+

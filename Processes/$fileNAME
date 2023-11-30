@@ -1,0 +1,72 @@
+
+Name                       : audioaccessoryd
+Id                         : 93417
+PriorityClass              : Normal
+FileVersion                : 
+HandleCount                : 0
+WorkingSet                 : 4292608
+PagedMemorySize            : 0
+PrivateMemorySize          : 0
+VirtualMemorySize          : 215834624
+TotalProcessorTime         : 00:00:06.1323092
+SI                         : 1
+Handles                    : 0
+VM                         : 34575572992
+WS                         : 4292608
+PM                         : 0
+NPM                        : 0
+Path                       : /System/Library/CoreServices/audioaccessoryd
+CommandLine                : 
+Parent                     : 
+Company                    : 
+CPU                        : 6,1323092
+ProductVersion             : 
+Description                : 
+Product                    : 
+__NounName                 : Process
+SafeHandle                 : Microsoft.Win32.SafeHandles.SafeProcessHandle
+Handle                     : 2140
+BasePriority               : 0
+ExitCode                   : 
+HasExited                  : False
+StartTime                  : 29/11/2023 15:00:33
+ExitTime                   : 
+MachineName                : .
+MaxWorkingSet              : 
+MinWorkingSet              : 
+Modules                    : {System.Diagnostics.ProcessModule (audioaccessoryd)}
+NonpagedSystemMemorySize64 : 0
+NonpagedSystemMemorySize   : 0
+PagedMemorySize64          : 0
+PagedSystemMemorySize64    : 0
+PagedSystemMemorySize      : 0
+PeakPagedMemorySize64      : 0
+PeakPagedMemorySize        : 0
+PeakWorkingSet64           : 0
+PeakWorkingSet             : 0
+PeakVirtualMemorySize64    : 0
+PeakVirtualMemorySize      : 0
+PriorityBoostEnabled       : False
+PrivateMemorySize64        : 0
+ProcessorAffinity          : 
+SessionId                  : 1
+StartInfo                  : 
+Threads                    : {1275206688, 167629024, 168165600, 164409568}
+VirtualMemorySize64        : 34575572992
+EnableRaisingEvents        : False
+StandardInput              : 
+StandardOutput             : 
+StandardError              : 
+WorkingSet64               : 4292608
+SynchronizingObject        : 
+MainModule                 : System.Diagnostics.ProcessModule (audioaccessoryd)
+MainWindowHandle           : 0
+MainWindowTitle            : 
+Responding                 : True
+ProcessName                : audioaccessoryd
+PrivilegedProcessorTime    : 00:00:03.7521685
+UserProcessorTime          : 00:00:02.3801407
+Site                       : 
+Container                  : 
+
+

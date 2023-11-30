@@ -1,0 +1,72 @@
+
+Name                       : followupd
+Id                         : 95821
+PriorityClass              : Normal
+FileVersion                : 
+HandleCount                : 0
+WorkingSet                 : 3493888
+PagedMemorySize            : 0
+PrivateMemorySize          : 0
+VirtualMemorySize          : 194093056
+TotalProcessorTime         : 00:00:00.0382953
+SI                         : 1
+Handles                    : 0
+VM                         : 34553831424
+WS                         : 3493888
+PM                         : 0
+NPM                        : 0
+Path                       : /System/Library/PrivateFrameworks/CoreFollowUp.framework/Versions/A/Support/followupd
+CommandLine                : 
+Parent                     : 
+Company                    : 
+CPU                        : 0,0382953
+ProductVersion             : 
+Description                : 
+Product                    : 
+__NounName                 : Process
+SafeHandle                 : Microsoft.Win32.SafeHandles.SafeProcessHandle
+Handle                     : 2560
+BasePriority               : 0
+ExitCode                   : 
+HasExited                  : False
+StartTime                  : 30/11/2023 04:23:02
+ExitTime                   : 
+MachineName                : .
+MaxWorkingSet              : 
+MinWorkingSet              : 
+Modules                    : {System.Diagnostics.ProcessModule (followupd)}
+NonpagedSystemMemorySize64 : 0
+NonpagedSystemMemorySize   : 0
+PagedMemorySize64          : 0
+PagedSystemMemorySize64    : 0
+PagedSystemMemorySize      : 0
+PeakPagedMemorySize64      : 0
+PeakPagedMemorySize        : 0
+PeakWorkingSet64           : 0
+PeakWorkingSet             : 0
+PeakVirtualMemorySize64    : 0
+PeakVirtualMemorySize      : 0
+PriorityBoostEnabled       : False
+PrivateMemorySize64        : 0
+ProcessorAffinity          : 
+SessionId                  : 1
+StartInfo                  : 
+Threads                    : {1275206688, 45027552}
+VirtualMemorySize64        : 34553831424
+EnableRaisingEvents        : False
+StandardInput              : 
+StandardOutput             : 
+StandardError              : 
+WorkingSet64               : 3493888
+SynchronizingObject        : 
+MainModule                 : System.Diagnostics.ProcessModule (followupd)
+MainWindowHandle           : 0
+MainWindowTitle            : 
+Responding                 : True
+ProcessName                : followupd
+PrivilegedProcessorTime    : 00:00:00.0203441
+UserProcessorTime          : 00:00:00.0179512
+Site                       : 
+Container                  : 
+
+

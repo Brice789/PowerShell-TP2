@@ -1,0 +1,72 @@
+
+Name                       : ReportCrash
+Id                         : 96840
+PriorityClass              : Normal
+FileVersion                : 
+HandleCount                : 0
+WorkingSet                 : 2043904
+PagedMemorySize            : 0
+PrivateMemorySize          : 0
+VirtualMemorySize          : 167821312
+TotalProcessorTime         : 00:00:00.0456508
+SI                         : 1
+Handles                    : 0
+VM                         : 34527559680
+WS                         : 2043904
+PM                         : 0
+NPM                        : 0
+Path                       : /System/Library/CoreServices/ReportCrash
+CommandLine                : 
+Parent                     : 
+Company                    : 
+CPU                        : 0,0456508
+ProductVersion             : 
+Description                : 
+Product                    : 
+__NounName                 : Process
+SafeHandle                 : Microsoft.Win32.SafeHandles.SafeProcessHandle
+Handle                     : 2524
+BasePriority               : 0
+ExitCode                   : 
+HasExited                  : False
+StartTime                  : 30/11/2023 04:46:42
+ExitTime                   : 
+MachineName                : .
+MaxWorkingSet              : 
+MinWorkingSet              : 
+Modules                    : {System.Diagnostics.ProcessModule (ReportCrash)}
+NonpagedSystemMemorySize64 : 0
+NonpagedSystemMemorySize   : 0
+PagedMemorySize64          : 0
+PagedSystemMemorySize64    : 0
+PagedSystemMemorySize      : 0
+PeakPagedMemorySize64      : 0
+PeakPagedMemorySize        : 0
+PeakWorkingSet64           : 0
+PeakWorkingSet             : 0
+PeakVirtualMemorySize64    : 0
+PeakVirtualMemorySize      : 0
+PriorityBoostEnabled       : False
+PrivateMemorySize64        : 0
+ProcessorAffinity          : 
+SessionId                  : 1
+StartInfo                  : 
+Threads                    : {1275206688, 63525088, 61915360}
+VirtualMemorySize64        : 34527559680
+EnableRaisingEvents        : False
+StandardInput              : 
+StandardOutput             : 
+StandardError              : 
+WorkingSet64               : 2043904
+SynchronizingObject        : 
+MainModule                 : System.Diagnostics.ProcessModule (ReportCrash)
+MainWindowHandle           : 0
+MainWindowTitle            : 
+Responding                 : True
+ProcessName                : ReportCrash
+PrivilegedProcessorTime    : 00:00:00.0327172
+UserProcessorTime          : 00:00:00.0129336
+Site                       : 
+Container                  : 
+
+
